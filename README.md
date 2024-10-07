@@ -1,4 +1,4 @@
-Here's a README file text you can use for your GitHub repository:
+# CSE 584 Midsem Project
 
 # LLM Classifier
 
