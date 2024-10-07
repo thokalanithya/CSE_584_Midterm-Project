@@ -1,5 +1,4 @@
 # CSE 584 Midterm Project
-CSE 584 Midterm Project
 
 ## LLM Output Classification Project
 
