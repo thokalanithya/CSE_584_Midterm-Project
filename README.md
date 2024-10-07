@@ -1,4 +1,4 @@
-#CSE 584 Midterm project
+# CSE 584 Midterm project
 
 # LLM Classifier
 
