@@ -1,5 +1,3 @@
-# CSE 584 Midsem Project
-
 # LLM Classifier
 
 This project implements a deep learning classifier to identify which Large Language Model (LLM) was used to generate a given text completion. The classifier is based on the RoBERTa model, fine-tuned on a dataset of text pairs consisting of original truncated text and its LLM continuation.
